@@ -1,1 +1,1 @@
-# Test Read Labtop Webcam with Python
+# Test Control Labtop Webcam with Python
